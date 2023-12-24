@@ -7,11 +7,11 @@ Checkout code from if needed `https://github.com/ganeshgowtham/AzureDeploymentWe
 # 2. Create the Web App 
 ![Alt text](2.jpg "a title")
 
-3. Create the web app by selcting  the appropriate `runtime`
+# 3. Create the web app by selcting  the appropriate `runtime`
 ![Alt text](3.jpg "a title")
 
-4. App console
+# 4. App console
 ![Alt text](4.jpg "a title")
 
-5. Select the `Log stream` for viewing the app logs
+#  5. Select the `Log stream` for viewing the app logs
 ![Alt text](5.jpg "a title")

@@ -45,7 +45,7 @@ registry_ml_client = MLClient(credential, registry_name="HuggingFace")
 print(registry_ml_client)
 ```
 
-Follow Steps for creation of ML Workspace in Azure
+# Follow Steps for creation of ML Workspace in Azure
 ![Alt text](1.jpg "a title")
 
 ![Alt text](2.jpg "a title")
