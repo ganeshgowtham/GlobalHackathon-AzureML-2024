@@ -1,22 +1,10 @@
-![Alt text](Azure%20ML%20Option.jpg.jpg "a title")
 
-![Alt text](2.jpg "a title")
+# Code
+## Refer ML service deployed as online endpoint  [here](../../code/ml-as-service/question-answering-online-endpoint.ipynb) # Online Endpoint
 
-![Alt text](3.jpg "a title")
-
-![Alt text](4.jpg "a title")
-
-![Alt text](5.jpg "a title")
-
-![Alt text](6.jpg "a title")
-
-![Alt text](7.jpg "a title")
-
-![Alt text](8.jpg "a title")
-
-![Alt text](9.jpg "a title")
-
-![Alt text](10.jpg "a title")
+## sample qa service invocation  [here](../../code/ml-as-service/simple-qa-model.ipynb) # sample qa service invocation
+## Sample Code
+Replace and substitute `subscription_id`, `workspace`, `resource_group` with appropriate values
 
 ```Python
 from azure.ai.ml import MLClient
@@ -56,3 +44,24 @@ except Exception as ex:
 registry_ml_client = MLClient(credential, registry_name="HuggingFace")
 print(registry_ml_client)
 ```
+
+Follow Steps for creation of ML Workspace in Azure
+![Alt text](1.jpg "a title")
+
+![Alt text](2.jpg "a title")
+
+![Alt text](3.jpg "a title")
+
+![Alt text](4.jpg "a title")
+
+![Alt text](5.jpg "a title")
+
+![Alt text](6.jpg "a title")
+
+![Alt text](7.jpg "a title")
+
+![Alt text](8.jpg "a title")
+
+![Alt text](9.jpg "a title")
+
+![Alt text](10.jpg "a title")
