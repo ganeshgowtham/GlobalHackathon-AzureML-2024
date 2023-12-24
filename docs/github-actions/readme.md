@@ -1,3 +1,14 @@
+![Alt text](1.jpg "a title")
+
+![Alt text](2.jpg "a title")
+
+![Alt text](3.jpg "a title")
+
+![Alt text](4.jpg "a title")
+
+
+```yaml
+
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 # More info on Python, GitHub Actions, and Azure App Service: https://aka.ms/python-webapps-actions
@@ -67,3 +78,4 @@ jobs:
           app-name: 'qaml'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_162A983B38CD411CBB2182B2A380C36C }}
+```

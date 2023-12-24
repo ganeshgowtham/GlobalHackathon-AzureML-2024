@@ -1,3 +1,24 @@
+![Alt text](Azure%20ML%20Option.jpg.jpg "a title")
+
+![Alt text](2.jpg "a title")
+
+![Alt text](3.jpg "a title")
+
+![Alt text](4.jpg "a title")
+
+![Alt text](5.jpg "a title")
+
+![Alt text](6.jpg "a title")
+
+![Alt text](7.jpg "a title")
+
+![Alt text](8.jpg "a title")
+
+![Alt text](9.jpg "a title")
+
+![Alt text](10.jpg "a title")
+
+```Python
 from azure.ai.ml import MLClient
 from azure.identity import (
     DefaultAzureCredential,
@@ -34,3 +55,4 @@ except Exception as ex:
 # Connect to the HuggingFaceHub registry
 registry_ml_client = MLClient(credential, registry_name="HuggingFace")
 print(registry_ml_client)
+```
