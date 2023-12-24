@@ -1,0 +1,1 @@
+# GloballHackakthon-AzureML-2024
