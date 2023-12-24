@@ -1,32 +1,16 @@
-# GloballHackakthon-AzureML-2024
-# Project Title
+# GLobal Hackathon 2024
 
 ## Overview
+This github repository helps you to guide step by step procedure to create "ML Workspace", "Sample Git repo with Flask along with github actions" for novice Azure ML users
 
-Brief description of your project.
+## Sample Flask App [here](./docs/flask-app/readme.md)
 
-## Table of Contents
+## ML as service deployed in online endpoint [here](./docs/ml-workspace/readme.md)
 
-- [Installation](#installation)
-- [Sample Flask App](#flask)
-- [Azure ML Workspace](#azure-ml)
-- [Github Actions](#githubactions)
+## Github actions [here](./docs/github-actions/readme.md)
 
-## Installation
+## Best Practices (Work in progress)
 
-Include instructions on how to install and set up the project. You can provide code snippets if necessary.
+## FAQ ( Work in progress)
 
-## flask
 
-Include instructions on how to install and set up the project. You can provide code snippets if necessary.
-
-## azureMl
-
-Include instructions on how to install and set up the project. You can provide code snippets if necessary.
-
-## githubActions
-
-Include instructions on how to install and set up the project. You can provide code snippets if necessary.
-
-```bash
-pip install -r requirements.txt
