@@ -9,8 +9,8 @@ Brief description of your project.
 
 - [Installation](#installation)
 - [Sample Flask App](#flask)
-- [Azure ML Workspace](#azureMl)
-- [Github Actions](#githubActions)
+- [Azure ML Workspace](#azure-ml)
+- [Github Actions](#githubactions)
 
 ## Installation
 

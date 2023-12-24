@@ -1,12 +1,14 @@
+1. CICD yaml in this page will page will helpful to configure `auto-deploy` based on commit hook
 ![Alt text](1.jpg "a title")
-
+2. Overall Workflow
 ![Alt text](2.jpg "a title")
-
+3. Build Workflow
 ![Alt text](3.jpg "a title")
-
+4. Deploy Workflow
 ![Alt text](4.jpg "a title")
 
 
+# Sample CICD with Github actions
 ```yaml
 
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
