@@ -1,10 +1,10 @@
 # Sample Flask Application
 Checkout code from if needed `https://github.com/ganeshgowtham/AzureDeploymentWebApp`
 
-1. Select the `App Service`
+# 1. Select the `App Service`
 ![Alt text](1.jpg "a title")
 
-2. Create the Web App 
+# 2. Create the Web App 
 ![Alt text](2.jpg "a title")
 
 3. Create the web app by selcting  the appropriate `runtime`
